@@ -1,0 +1,4 @@
+{
+    "/arsenal/list": "/arsenal",
+    "/arsenal/get/:id": "/arsenal/:id"
+}
