@@ -149,6 +149,23 @@
       ],
       "Magazine Capacity": "5",
       "Wall penetration": "low"
+    },
+    {
+      "id": 8,
+      "name": "Judge",
+      "type": "Shotgun",
+      "discription": "An automatic shotgun with a high rate of fire. Good for dueling at close range.",
+      "primary fire": [
+        "Full-automatic",
+        "Fire Rate: 3.5 rounds/second"
+      ],
+      "Damage": [
+        "0-8m = Body 17, Head 34, Leg 14",
+        "10-15m = Body 13, Head 26, Leg 11",
+        "15-50 = Body 10, Head 20, Leg 9"
+      ],
+      "Magazine Capacity": "7",
+      "Wall penetration": "Medium"
     }
     
   ]
