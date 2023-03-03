@@ -5,11 +5,11 @@
       "name": "classic",
       "type": "sidearm",
       "discription": "The pistol you always get for free at the beginning of each round, it’s serviceable with two firing modes: mouse-1 for single bullet (more accurate at a distance) or mouse-2 for a three bullet burst (better in close quarters).",
-      "primary fire": [
+      "primaryfire": [
         "semi-automatic",
         "Fire rate: 6.75 rounds/sec"
       ],
-      "Alt fire": [
+      "Altfire": [
         "3 - round burst, spread increase",
         "fire rate: 2.22 rounds/sec"
       ],
@@ -17,8 +17,8 @@
         "0-30m = Body 26, Head 78, Leg 22",
         "30-50m = Body 22, Head 66, Leg 188"
       ],
-      "Magazine Capacity": "12",
-      "Wall penetration": "low"
+      "MagazineCapacity": "12",
+      "Wallpenetration": "low"
     },
     {
       "id": 1,
@@ -34,8 +34,8 @@
         "9-15m = Body 8, Head 24, Leg 6",
         "15m+ = Body 3, Head 9, 2"
       ],
-      "Magazine Capacity": "2",
-      "Wall penetration": "low"
+      "MagazineCapacity": "2",
+      "Wallpenetration": "low"
     },
     {
       "id": 2,
@@ -50,8 +50,8 @@
         "0-20m = Body 26, Head 78, Leg 22",
         "20-50m = Body 21, Head 63, Leg 17"
       ],
-      "Magazine Capacity": "15",
-      "Wall penetration": "Medium"
+      "MagazineCapacity": "15",
+      "Wallpenetration": "Medium"
     },
     {
       "id": 3,
@@ -66,8 +66,8 @@
         "0-30m = Body 30, Head 105, Leg 26",
         "30-50m = Body 25, Head 88, Leg 21"
       ],
-      "Magazine Capacity": 15,
-      "Wall penetration": "Medium"
+      "MagazineCapacity": 15,
+      "Wallpenetration": "Medium"
     },
     {
       "id": 4,
@@ -86,8 +86,8 @@
         "0-30m = Body 55, Head 160, Leg 47",
         "30-50m = Body 50, Head 145, Leg 43"
       ],
-      "Magazine Capacity": 6,
-      "Wall penetration": "High"
+      "MagazineCapacity": 6,
+      "Wallpenetration": "High"
     },
     {
       "id": 5,
@@ -106,8 +106,8 @@
         "0-20m = Body 27, Head 67, Leg 23",
         "20-50m = Body 25, Head 62, Leg 21"
       ],
-      "Magazine Capacity": "20",
-      "Wall penetration": "low"
+      "MagazineCapacity": "20",
+      "Wallpenetration": "low"
     },
     {
       "id": 6,
@@ -126,8 +126,8 @@
         "0-20m = Body 26, Head 78, Leg 22",
         "20-50m = Body 22, Head 66, Leg 18"
       ],
-      "Magazine Capacity": "30",
-      "Wall penetration": "Medium"
+      "MagazineCapacity": "30",
+      "Wallpenetration": "Medium"
     },
     {
       "id": 7,
@@ -147,8 +147,8 @@
         "8-12m = Body 17, Head 34, Leg 14",
         "12-50m = Body 9, Head 18, Leg 8"
       ],
-      "Magazine Capacity": "5",
-      "Wall penetration": "low"
+      "MagazineCapacity": "5",
+      "Wallpenetration": "low"
     },
     {
       "id": 8,
@@ -164,8 +164,8 @@
         "10-15m = Body 13, Head 26, Leg 11",
         "15-50 = Body 10, Head 20, Leg 9"
       ],
-      "Magazine Capacity": "7",
-      "Wall penetration": "Medium"
+      "MagazineCapacity": "7",
+      "Wallpenetration": "Medium"
     }
     
   ]
